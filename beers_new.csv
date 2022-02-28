@@ -1,0 +1,692 @@
+Column1,abv,ibu,id,name,style,brewery_id,ounces
+41,0.059,,2517,Rod Bender Red,American Amber,67,12
+45,0.06,,2288,Reprise Centennial Red,American Amber,60,12
+62,0.055,26,1165,Colorado Native,American Amber,462,12
+63,0.055,26,431,Colorado Native (2011),American Amber,462,12
+66,0.045,17,514,Abita Amber,American Amber,533,12
+99,0.049,,2103,California Lager,American Amber,35,12
+108,0.058,15,1326,Boont Amber Ale,American Amber,171,12
+111,0.058,15,811,Boont Amber Ale (2010),American Amber,171,12
+116,0.058,15,78,Boont Amber Ale (2011),American Amber,171,12
+143,0.077,,1638,Aslan Amber,American Amber,353,16
+149,0.06,35,978,Old Red Beard Amber Ale,American Amber,374,12
+172,0.061,41,702,Hot Rod Red,American Amber,360,12
+177,0.05,,1131,Back East Ale,American Amber,235,12
+190,0.035,45,1643,Banner American Ale,American Amber,318,12
+209,0.055,35,533,Amber Road,American Amber,292,12
+242,0.067,85,1067,Disconnected Red,American Amber,220,16
+265,0.058,38,2095,Wavemaker,American Amber,221,12
+283,0.066,44,1847,Colorado Red Ale,American Amber,294,12
+285,0.046,20,2484,Bomber Mountain Amber Ale,American Amber,79,12
+296,0.08,,1320,Last Call Imperial Amber Ale,American Amber,380,12
+317,,,2488,Van Dayum!,American Amber,77,12
+375,0.055,,470,Bozone Select Amber Ale,American Amber,219,12
+376,0.052,40,2167,Evil Owl,American Amber,207,12
+381,0.054,19,83,Avalanche Ale,American Amber,391,12
+387,0.053,,2468,Manitou Amber,American Amber,85,16
+436,0.06,,1044,Big Red Coq,American Amber,10,16
+442,0.062,,677,Big Red Coq (2012),American Amber,10,16
+452,0.061,,2456,Broad Brook Ale,American Amber,89,16
+453,0.05,15,921,Northern Lights Amber Ale,American Amber,493,12
+461,0.052,,66,Brooklyn Lager (16 oz.),American Amber,437,16
+462,0.052,,65,Brooklyn Lager (12 oz.),American Amber,437,12
+467,0.062,42,28,Tule Duck Red Ale (Current),American Amber,530,16
+500,0.063,35,2213,Native Amber,American Amber,182,16
+502,0.063,35,170,Native Amber (2013),American Amber,182,16
+508,0.054,24,794,Ashland Amber Ale (2009),American Amber,155,12
+516,0.054,24,37,Ashland Amber Ale,American Amber,155,12
+521,,,869,THP Amber (2006),American Amber,497,12
+528,0.055,30,2064,Fisherman's Brew,American Amber,230,12
+529,0.055,35,1928,Cape Cod Red,American Amber,267,16
+572,0.05,,1218,All American Red Ale,American Amber,452,12
+574,0.045,24,1839,Chin Music Amber Lager,American Amber,122,12
+620,0.072,75,569,Tocobaga Red Ale,American Amber,141,12
+637,0.052,24,751,Hurricane Amber Ale (2004),American Amber,101,12
+638,0.052,24,120,Hurricane Amber Ale,American Amber,101,12
+644,0.052,,1650,Arkansas Red,American Amber,139,12
+655,,,1163,WinterWonderGrass Festival Ale,American Amber,63,12
+656,,,940,Boohai Red Ale,American Amber,63,12
+659,0.052,25,356,Crazy Mountain Amber Ale,American Amber,63,12
+665,0.065,,2145,Red Water Irish Style Red,American Amber,212,12
+672,0.06,31,1057,South Ridge Amber Ale,American Amber,472,16
+694,0.063,37,1746,Dead Armadillo Amber Ale,American Amber,330,12
+722,0.054,27,924,Deadicated Amber,American Amber,491,16
+728,,,944,Dock Street Amber Beer (1992),American Amber,488,12
+740,0.058,49,871,Dry Dock Amber Ale,American Amber,496,12
+751,0.049,25,673,Dottie Seattle Lager,American Amber,516,16
+781,0.075,53,2191,Loki Red Ale,American Amber,201,16
+784,0.075,53,895,Loki Red Ale (2013),American Amber,201,16
+799,0.08,72,935,Fascist Pig Ale,American Amber,256,16
+834,0.051,,319,1811 Lager,American Amber,206,16
+836,,,2322,Fort Pitt Ale,American Amber,151,12
+838,0.056,16,2660,Westfalia,American Amber,4,12
+863,0.056,,1998,Old Detroit,American Amber,253,12
+870,0.068,,2523,Original,American Amber,66,12
+888,0.05,26,2075,Cedar Point,American Amber,228,12
+923,0.054,,143,Grand Canyon Sunset Amber Ale,American Amber,536,12
+975,0.048,25,517,40th Annual Bix Street Fest Copper Ale (Current),American Amber,365,16
+995,0.065,25,2140,El Rojo,American Amber,124,16
+1050,0.055,,96,Annie's Amber Ale,American Amber,500,12
+1054,0.055,60,497,Hilliard's Amber Ale,American Amber,362,16
+1087,0.058,60,2388,Rise Up Red,American Amber,80,16
+1092,0.058,60,1085,Rise-Up Red (2014),American Amber,80,16
+1107,0.048,32,2350,Oklahoma Suks,American Amber,140,12
+1129,0.05,,688,Firefly Amber Ale,American Amber,92,12
+1151,0.049,45,465,Sympathy for the Lager,American Amber,125,12
+1173,,,57,Red Jacket Amber Ale,American Amber,84,12
+1174,0.051,,2436,Amber Ale,American Amber,102,12
+1181,0.046,18,1274,Longboard Island Lager,American Amber,439,24
+1182,0.046,18,1220,Longboard Island Lager,American Amber,439,16
+1183,0.046,18,1070,Longboard Island Lager,American Amber,439,12
+1184,0.046,18,590,Longboard Island Lager,American Amber,439,12
+1193,0.05,,2492,Schoolhouse Honey,American Amber,59,12
+1203,0.05,,473,Lewis & Clark Amber Ale,American Amber,537,12
+1209,0.057,42,1688,American Hero,American Amber,298,12
+1219,0.046,30,1924,Long Trail Ale,American Amber,268,12
+1238,0.058,,125,Lumberyard Red Ale,American Amber,158,12
+1240,0.051,32,961,Mac's Scottish Style Amber Ale (2000),American Amber,485,12
+1251,0.06,30,1124,Happy Amber,American Amber,91,12
+1258,0.045,,73,Real McCoy Amber Ale (Current),American Amber,534,12
+1282,0.05,35,2197,Rubberneck Red,American Amber,161,16
+1306,0.06,24,690,Sobrehumano Palena'ole,American Amber,375,12
+1323,0.052,23,2177,Volcano Red Ale,American Amber,203,12
+1329,0.056,,174,Mickey Finn's Amber Ale,American Amber,552,12
+1355,0.051,24,1272,Louie's Demise Amber Ale,American Amber,284,16
+1360,0.051,24,171,Louie’s Demise Immort-Ale (2010),American Amber,284,16
+1388,0.067,75,2154,Aurora ,American Amber,209,16
+1392,0.065,115,1492,Blazing World,American Amber,209,16
+1393,0.05,,327,Wapiti Amber Ale,American Amber,549,12
+1409,0.082,,1952,Train Wreck,American Amber,260,16
+1415,0.05,,1598,Mustang Sixty-Six,American Amber,366,12
+1448,0.055,,1737,California Route,American Amber,82,12
+1451,0.052,18,1586,Fat Tire Amber Ale,American Amber,82,12
+1453,0.052,18,748,Fat Tire Amber Ale (2011),American Amber,82,12
+1456,0.052,18,563,Fat Tire Amber Ale,American Amber,82,16
+1459,0.052,18,71,Fat Tire Amber Ale (2008),American Amber,82,12
+1463,0.05,,757,Atlantic Amber Ale (2004),American Amber,410,12
+1469,0.05,,40,Atlantic Amber Ale (2007),American Amber,410,12
+1479,0.052,50,2041,Dammit Jim!,American Amber,241,12
+1486,0.055,,1811,Marblehead,American Amber,305,16
+1510,0.054,24,1669,Oakshire Amber Ale,American Amber,150,12
+1545,0.055,,1529,Lizzy's Red,American Amber,390,16
+1641,0.059,25,1404,North 45 Amber Ale,American Amber,11,16
+1646,0.073,,1518,Devils Head Red Ale,American Amber,355,16
+1656,0.055,20,521,McKinney Eddy Amber Ale,American Amber,314,16
+1658,0.065,,2559,Blood of the Unicorn,American Amber,52,16
+1662,0.049,,1457,Chronic Ale,American Amber,370,16
+1668,,,64,Liquid Amber Ale,American Amber,548,12
+1701,0.058,27,339,Copper Hook (2011),American Amber,487,12
+1718,0.062,,220,Colorado Red Ale,American Amber,386,12
+1728,0.057,42,2452,Hustle,American Amber,93,12
+1730,0.06,60,2132,Dad,American Amber,93,12
+1740,0.05,,1179,River North Ale,American Amber,459,16
+1750,0.08,,1877,Patrick's Poison,American Amber,43,12
+1751,0.081,,1764,Rudolph's Red,American Amber,43,12
+1755,0.055,,1100,RT Lager,American Amber,43,12
+1758,0.045,,1330,Track 1 Amber Lager,American Amber,427,16
+1762,0.059,,899,Rochester Red Ale,American Amber,229,16
+1766,0.051,,1860,Rogue American Amber Ale,American Amber,289,16
+1777,0.056,35,1479,1881 California Red,American Amber,397,12
+1779,0.048,42,1370,Ruhstaller's Gilt Edge Lager Beer,American Amber,397,12
+1781,0.056,35,882,1881 California Red Ale,American Amber,397,16
+1793,0.055,20,1073,Epicenter Amber Ale,American Amber,30,12
+1804,0.055,20,124,Epicenter Amber Ale (2010),American Amber,30,12
+1835,0.077,40,1767,Seventh Son Hopped Red Ale,American Amber,183,16
+1855,0.06,,161,Red Mountain Ale,American Amber,551,12
+1893,0.058,39,1792,Iron Butt Red Ale,American Amber,313,12
+1912,0.058,35,2406,Murphy's Law,American Amber,115,12
+1950,0.08,80,1745,Mississippi Fire Ant,American Amber,133,16
+1974,0.06,,2134,Angry Adam,American Amber,175,16
+1992,0.057,25,91,Steam Engine Lager,American Amber,119,12
+2014,0.047,14,139,Point Amber Classic,American Amber,131,12
+2016,0.051,31,953,Wisco Disco,American Amber,486,16
+2026,0.041,8,2232,American Amber,American Amber,129,12
+2070,0.045,,1207,Dam Lager,American Amber,455,12
+2122,0.056,,1432,Yard Sale Amber Ale,American Amber,409,16
+2146,0.046,20,1200,Bomber Mountain Amber Ale (2013),American Amber,457,12
+2163,,,963,Manhattan Gold Lager (1990),American Amber,484,12
+2165,0.058,,1278,Northern Hawk Owl Amber,American Amber,438,12
+2183,0.052,,1889,Leatherhead Red,American Amber,282,12
+2202,0.045,28,494,Perfect Tin Amber,American Amber,152,12
+2209,0.06,30,1936,Farmer's Tan Red Ale,American Amber,265,12
+2214,0.075,93,2444,Nugget Nectar,American Amber,97,16
+2220,0.054,26,2588,Cow Creek,American Amber,38,12
+2225,0.052,27,1660,Immersion Amber,American Amber,190,12
+2231,0.052,27,518,Immersion Amber Ale (2011),American Amber,190,12
+2252,0.04,22,2100,Yard Sale Winter Lager,American Amber,159,12
+2329,0.047,,780,T-6 Red Ale (2004),American Amber,506,12
+2336,0.055,,1069,West Sixth Amber Ale,American Amber,100,12
+2343,0.052,,1551,Pop's Old Fashioned Lager,American Amber,351,12
+2351,0.052,,2340,Drop Kick Ale,American Amber,132,12
+2381,0.055,,2149,#001 Golden Amber Lager,American Amber,211,12
+2406,0.052,,807,Rail Yard Ale,American Amber,424,12
+2409,0.052,,84,Rail Yard Ale (2009),American Amber,424,12
+3,0.09,,2263,Sinister,American Double,177,12
+9,0.086,,2131,Cone Crusher,American Double,177,12
+32,0.097,94,432,Hop Crisis,American Double,368,12
+60,0.084,82,47,Ballz Deep Double IPA,American Double,481,16
+69,0.08,68,2686,Citra Ass Down,American Double,1,16
+77,0.076,68,2678,Rico Sauvin,American Double,1,16
+87,0.082,103,2401,Yellow Wolf Imperial IPA,American Double,117,12
+147,0.082,138,980,Bitter Bitch Imperial IPA,American Double,374,12
+150,0.075,115,2503,Hop A-Peel,American Double,72,16
+161,0.08,,2589,Raja,American Double,37,12
+173,0.086,,2058,Palate Mallet,American Double,235,12
+212,0.088,108,1806,Hoptopus Double IPA,American Double,306,16
+224,0.083,,2557,Uber Lupin Schwarz IPA,American Double,53,16
+240,0.095,104,1762,Hemlock Double IPA,American Double,220,12
+268,0.098,76,1255,Bad Axe Imperial IPA,American Double,444,16
+297,0.096,,1319,Pernicious Double IPA,American Double,380,12
+299,,,1025,N Street Drive-In 50th Anniversary IPA,American Double,380,12
+309,0.08,80,1812,Quarter Mile Double IPA,American Double,304,12
+430,0.093,,1443,Trebuchet Double IPA,American Double,10,16
+474,0.09,118,2123,More Cowbell,American Double,214,16
+479,0.099,115,2471,Hopkick Dropkick,American Double,24,12
+497,0.097,,2652,Boy King,American Double,5,16
+525,0.09,130,2067,Dead-Eye DIPA,American Double,230,16
+550,0.078,80,1940,077XX,American Double,222,16
+565,0.085,90,2600,Gone A-Rye,American Double,29,16
+579,0.095,99,1647,Terrace Hill Double IPA,American Double,350,16
+594,0.089,126,2440,Bay of Bengal Double IPA (2014),American Double,99,12
+684,0.092,115,851,On the Wings of Armageddon,American Double,227,12
+697,0.085,100,2166,Dream Crusher Double IPA,American Double,127,12
+718,0.096,85,1888,Hoperation Overload,American Double,57,12
+731,,,449,Snaggletooth Double Pale Ale,American Double,531,16
+767,0.085,,2248,Molotov Lite,American Double,173,16
+785,0.069,,682,Mjolnir Imperial IPA,American Double,201,16
+787,0.081,,2289,Mastermind,American Double,172,12
+788,0.082,,2027,Hyzer Flip,American Double,172,16
+789,0.082,80,1929,Second Fiddle,American Double,172,16
+794,0.09,,1981,Hardcore Chimera,American Double,256,16
+909,0.093,103,312,Snake Handler Double IPA,American Double,478,12
+983,0.085,69,2044,Captain's Daughter,American Double,86,12
+1039,0.088,77,1893,Hill 88 Double IPA,American Double,280,16
+1140,0.093,90,468,Hop Box Imperial IPA,American Double,233,12
+1150,0.095,85,666,Rodeo Clown Double IPA,American Double,125,12
+1243,0.099,,2454,Galaxy High,American Double,91,12
+1267,0.085,85,1334,Dreamin' Double IPA,American Double,356,12
+1268,0.099,93,1674,Chaotic Double IPA,American Double,346,12
+1279,0.097,,725,Cant Dog Imperial Pale Ale,American Double,317,16
+1283,0.08,,2120,The Imperial Texan,American Double,161,16
+1284,0.08,,1234,The Imperial Texan,American Double,161,12
+1335,0.08,100,2668,Habitus (2014),American Double,3,16
+1338,0.08,100,2664,Habitus,American Double,3,16
+1341,0.083,,2535,Vinyl Frontier,American Double,65,24
+1354,0.087,80,1884,Hop Freak,American Double,284,16
+1377,0.092,75,1459,Shipwrecked Double IPA,American Double,98,32
+1395,0.087,,718,Rich Man's IIPA,American Double,514,16
+1432,0.085,86,1265,Old Grogham Imperial India Pale Ale,American Double,387,16
+1433,0.085,86,747,Old Grogham Imperial India Pale Ale (2012),American Double,387,16
+1465,0.088,85,320,Gandhi-Bot Double IPA (12 oz.),American Double,410,12
+1467,0.088,85,42,Gandhi-Bot Double IPA (16 oz.) (2010),American Double,410,16
+1473,0.088,,1114,MechaHopzilla,American Double,174,16
+1568,0.087,85,806,Gordon Imperial Red (2010),American Double,166,12
+1571,0.087,85,726,G'KNIGHT (16 oz.),American Double,166,16
+1575,0.08,,565,Deviant Dale's IPA,American Double,166,16
+1576,0.09,60,391,One Hit Wonder,American Double,166,12
+1577,0.087,85,388,G'KNIGHT (12 oz.),American Double,166,12
+1580,0.099,100,6,GUBNA Imperial IPA,American Double,166,12
+1582,0.087,85,4,Gordon Ale (2009),American Double,166,12
+1584,0.092,85,805,Gordon (2005),American Double,503,12
+1596,0.087,60,733,Gordon Beer (2006),American Double,503,12
+1597,0.087,85,1533,G'KNIGHT,American Double,389,12
+1599,0.08,85,1328,Deviant Dale's IPA,American Double,389,16
+1709,0.099,100,1006,Elevation Triple India Pale Ale,American Double,110,12
+1788,0.091,99,2063,Count Hopula (Vault Series),American Double,30,16
+1807,0.089,88,2002,Giant DIPA,American Double,252,16
+1863,0.099,111,1696,Hi-Res,American Double,46,12
+1874,0.091,103,628,Resin,American Double,46,12
+1904,0.084,90,894,Odyssey Imperial IPA,American Double,371,12
+1922,0.092,,1655,Double Dagger Imperial IPA,American Double,309,12
+1926,0.079,,1447,Hopnoxious Imperial IPA,American Double,309,12
+1957,0.085,110,1728,Red Cockaded Ale,American Double,118,12
+1958,0.092,100,1497,Valkyrie Double IPA,American Double,118,12
+1959,0.085,110,1011,Red Cockaded Ale (2013),American Double,118,12
+1962,0.099,100,853,PRO-AM (2012) (2012),American Double,118,12
+1971,0.096,,2206,Bitter Biker Double IPA,American Double,175,16
+1973,0.079,,2135,Working for the Weekend,American Double,175,16
+1976,0.096,,1821,Bitter Biker Double IPA,American Double,175,12
+2031,0.083,100,2415,Unchained #18 Hop Silo,American Double,58,16
+2062,0.091,91,651,Isis,American Double,25,16
+2081,0.097,120,15,Abrasive Ale,American Double,61,16
+2095,0.08,95,1229,Dodgy Knight Imperial IPA,American Double,449,12
+2117,0.072,93,104,Oasis (2010),American Double,45,16
+2141,0.096,,1915,The Crusher,American Double,272,16
+2144,0.08,120,1111,Heady Topper,American Double,272,16
+2145,0.08,120,379,Heady Topper,American Double,272,16
+2160,0.099,101,1561,Double Trunk,American Double,33,16
+2191,0.085,115,1449,Overlord Imperial IPA,American Double,17,16
+2248,0.072,,1171,Road 2 Ruin Double IPA,American Double,435,12
+2271,0.085,90,2507,Double Duckpin,American Double,71,12
+2286,0.099,90,1315,Upslope Imperial India Pale Ale,American Double,51,19.2
+2299,0.09,75,1825,Squatters Hop Rising Double IPA,American Double,302,12
+2304,0.09,75,1680,Squatters Hop Rising Double IPA (2014),American Double,302,12
+2322,0.085,85,1418,Larry Imperial IPA,American Double,295,12
+2360,0.082,100,1619,Hop Slayer Double IPA,American Double,361,12
+2364,0.082,100,740,Hop Slayer Double IPA (2011),American Double,361,12
+2365,0.082,100,430,Hop Slayer Double IPA (2011),American Double,361,12
+2398,0.077,30,1513,Lights Out Vanilla Cream Extra Stout,American Double,199,12
+2,0.071,,2264,Rise of the Phoenix,American IPA,177,12
+4,0.075,,2262,Sex and Candy,American IPA,177,12
+28,0.07,70,799,21st Amendment IPA (2006),American IPA,368,12
+29,0.07,70,797,Brew Free! or Die IPA (2008),American IPA,368,12
+30,0.07,70,796,Brew Free! or Die IPA (2009),American IPA,368,12
+37,0.07,65,10,Brew Free! or Die IPA,American IPA,368,12
+39,0.07,82,2519,Bimini Twist,American IPA,67,12
+47,0.065,,2286,Divided Sky,American IPA,60,12
+48,0.065,,2285,Resurrected,American IPA,60,12
+50,0.065,,2603,Galaxyfest,American IPA,27,16
+51,0.05,45,2602,Citrafest,American IPA,27,16
+53,0.069,65,2219,Scarecrow,American IPA,27,16
+57,0.059,75,972,Rude Parrot IPA,American IPA,481,16
+64,0.065,52,516,Jockamo IPA,American IPA,533,12
+67,0.082,68,2540,Citra Ass Down,American IPA,62,16
+80,0.06,65,2675,Pile of Face,American IPA,1,16
+92,0.065,,1149,Kentucky IPA,American IPA,388,16
+94,0.062,,1473,Damnesia,American IPA,401,16
+95,0.062,43,837,Desolation IPA,American IPA,401,16
+96,0.059,,2592,Liberty Ale,American IPA,35,12
+97,0.065,,2578,IPA,American IPA,35,12
+107,0.07,80,1327,Hop Ottin' IPA,American IPA,171,12
+115,0.07,80,367,Hop Ottin' IPA (2011),American IPA,171,12
+119,0.06,,2337,Charlie's Rye IPA,American IPA,146,16
+128,0.071,75,2511,Long Leaf,American IPA,69,16
+137,0.07,45,1322,Green Bullet Organic India Pale Ale,American IPA,429,16
+140,0.06,69,428,Shiva IPA,American IPA,528,12
+142,0.077,,1639,Aslan IPA,American IPA,353,16
+145,0.07,67,596,Independence Pass Ale,American IPA,523,12
+154,0.05,62,528,Grand Circus IPA,American IPA,72,12
+157,0.062,,343,Fire Eagle IPA,American IPA,413,12
+165,0.063,69,107,Avery India Pale Ale,American IPA,37,12
+170,0.067,,705,Hog Wild India Pale Ale,American IPA,360,12
+176,0.07,,1132,Misty Mountain IPA,American IPA,235,12
+180,0.068,70,966,Topcutter India Pale Ale,American IPA,483,12
+182,0.07,,2593,Grapefruit Sculpin,American IPA,34,12
+183,0.038,40,2105,Even Keel,American IPA,34,12
+185,0.07,75,1400,Big Eye India Pale Ale,American IPA,34,12
+187,0.07,70,1018,Sculpin IPA,American IPA,34,12
+191,0.07,46,2618,Thai.p.a,American IPA,20,16
+192,0.06,60,2005,Barrio Blanco,American IPA,251,12
+195,0.067,60,2323,Ultra Gnar Gnar IPA,American IPA,116,12
+200,0.067,70,1965,Sky-Five,American IPA,258,12
+211,0.069,69,182,Stowaway IPA,American IPA,292,12
+215,0.068,85,2420,Back Bay IPA,American IPA,103,12
+221,0.07,,1988,Two Hearted,American IPA,76,16
+227,0.072,87,2410,Harness the Winter,American IPA,75,12
+229,0.062,68,1901,Bent Hop Golden IPA,American IPA,75,12
+234,0.078,,1158,La Frontera Premium IPA,American IPA,463,12
+243,0.07,,1003,Big Elm IPA,American IPA,477,12
+247,0.062,,2469,Ryecoe,American IPA,8,16
+249,0.075,60,2585,Galaxy IPA,American IPA,40,16
+251,0.06,55,632,House Brand IPA,American IPA,519,12
+252,0.062,65,1714,Big Sky IPA,American IPA,336,12
+259,0.062,65,579,Big Sky IPA (2012),American IPA,336,12
+264,0.069,81,2096,Arcus IPA,American IPA,221,12
+270,0.066,50,985,Bark Bite IPA,American IPA,444,16
+277,0.075,35,1898,Blackmarket Rye IPA,American IPA,112,12
+287,0.048,47,2634,Nordskye ,American IPA,12,12
+291,0.07,51,1481,51K IPA,American IPA,12,12
+328,0.065,,1569,Mad Manatee IPA,American IPA,378,12
+331,0.042,30,1891,Longhop IPA,American IPA,281,16
+335,0.066,72,2422,Firestarter India Pale Ale,American IPA,107,12
+341,0.068,,1517,Pink-I Raspberry IPA,American IPA,107,16
+353,0.066,72,633,Firestarter India Pale Ale,American IPA,107,16
+356,0.065,45,1629,Rebel IPA,American IPA,300,16
+367,0.062,80,2596,Heavy Lifting,American IPA,31,12
+369,0.058,,2299,Mango Ginger,American IPA,167,12
+373,0.07,80,1289,Bozone HopZone IPA,American IPA,219,12
+380,0.062,68,193,Lucky U IPA,American IPA,391,12
+383,0.072,60,1801,Last Stop IPA,American IPA,308,12
+391,0.06,,2597,Linnaeus Mango IPA,American IPA,10,16
+456,0.061,64,648,Fairweather IPA,American IPA,493,12
+483,0.072,86,2158,3:33 Black IPA,American IPA,24,16
+484,0.068,,2072,MCA,American IPA,24,16
+489,0.068,,51,Snapperhead IPA,American IPA,556,12
+496,0.077,,2653,HopArt,American IPA,5,16
+501,0.068,100,1442,F5 IPA,American IPA,182,16
+504,0.068,100,2315,Hopportunity Knocks IPA,American IPA,155,12
+509,0.061,94,793,Caldera IPA (2009),American IPA,155,12
+510,0.061,94,792,Caldera IPA (2007),American IPA,155,12
+517,0.061,94,36,Caldera IPA,American IPA,155,12
+519,0.065,,2256,Flower Child (2014),American IPA,178,12
+526,0.055,64,2066,Fisherman's IPA,American IPA,230,12
+534,0.056,55,1954,Ghost Ship White IPA,American IPA,192,12
+536,0.062,70,1177,Mutiny IPA,American IPA,192,12
+551,0.042,35,1439,Boat Beer,American IPA,222,12
+555,0.052,,1743,Firewater India Pale Ale,American IPA,331,12
+559,0.052,,507,Firewater India Pale Ale,American IPA,331,12
+567,0.068,70,2052,Dankosaurus,American IPA,29,16
+578,0.072,85,1648,Lucky Day IPA,American IPA,350,16
+584,0.07,65,1933,Missile IPA,American IPA,236,12
+591,0.057,58,2380,IPA #11,American IPA,121,16
+599,0.062,65,2014,Operation Homefront,American IPA,141,12
+604,0.045,,2009,Happening Now,American IPA,141,12
+605,0.07,60,1726,Hopped on the High Seas (Hop #529),American IPA,141,12
+606,0.07,60,1725,Hopped on the High Seas (Calypso),American IPA,141,12
+608,0.07,60,1694,Dry-Hopped On The High Seas Caribbean-Style IPA,American IPA,141,12
+609,0.07,60,1693,Hopped on the High Seas (Citra),American IPA,141,12
+610,0.07,60,1692,Hopped on the High Seas (Ahtanum),American IPA,141,12
+613,0.075,70,1142,Humidor Series India Pale Ale,American IPA,141,12
+614,0.075,70,1141,Jai Alai IPA Aged on White Oak,American IPA,141,12
+621,0.075,70,546,Jai Alai IPA,American IPA,141,12
+627,0.065,,656,Indie Pale Ale,American IPA,145,12
+630,0.067,60,1772,Jacaranada Rye IPA,American IPA,320,16
+636,0.065,75,2437,Newport Storm IPA,American IPA,101,12
+640,0.068,75,970,Des Moines IPA,American IPA,482,16
+660,0.065,65,2029,Tropicalia,American IPA,247,12
+671,0.06,,271,11th Hour IPA,American IPA,212,12
+677,0.063,,1786,Half Court IPA,American IPA,315,16
+685,0.065,80,186,The Corruption,American IPA,227,12
+688,0.065,,1224,Dank IPA,American IPA,451,16
+689,0.065,,964,Dank IPA (2012),American IPA,451,16
+690,0.072,,1623,Lift Off IPA,American IPA,358,16
+703,0.07,70,943,Deep Ellum IPA,American IPA,127,12
+704,0.045,44,1886,Thrasher Session India Pale Ale,American IPA,283,12
+708,0.065,71,947,Twister Creek India Pale Ale,American IPA,453,12
+710,0.07,,1944,Incredible Pedal IPA,American IPA,263,12
+715,0.063,76,2025,Vertex IPA,American IPA,57,12
+724,0.071,85,730,California Sunshine Rye IPA,American IPA,491,16
+727,0.065,72,1795,Filthy Hoppin' IPA,American IPA,311,16
+737,0.066,100,881,Hop Abomination,American IPA,496,12
+741,0.061,64,1685,Category 3 IPA,American IPA,340,12
+744,0.078,74,1382,Crank Yanker IPA,American IPA,369,16
+749,0.078,74,395,Crank Yanker IPA (2011),American IPA,369,16
+757,0.062,,2003,Escape to Colorado,American IPA,81,12
+758,0.043,60,2292,Little Sister India Style Session Ale,American IPA,170,12
+759,0.062,80,1504,Country Boy IPA,American IPA,170,12
+769,0.027,,1286,Bikini Beer,American IPA,173,12
+773,0.067,70,1434,Wood Chipper India Pale Ale,American IPA,335,12
+775,0.07,80,2088,Hop Stalker Fresh Hop IPA,American IPA,224,16
+780,0.07,70,1451,Moirai India Pale Ale,American IPA,405,16
+783,0.051,,1022,Quaff India Style Session Ale,American IPA,201,16
+801,0.075,,481,Threadless IPA,American IPA,256,16
+804,0.045,47,2569,Easy Jack,American IPA,48,12
+805,0.075,75,2463,Union Jack,American IPA,48,12
+811,0.06,104,1610,Half Cycle IPA,American IPA,16,16
+812,,,520,Inclined Plane Ale,American IPA,532,12
+814,0.071,60,608,Snake Dog IPA,American IPA,521,12
+817,0.07,70,2566,Flying Mouse 4,American IPA,50,12
+819,0.06,,983,Backyahd IPA,American IPA,279,12
+823,0.069,65,2110,1916 Shore Shiver,American IPA,217,12
+825,0.062,,2171,The Optimist,American IPA,206,12
+826,0.045,,1911,Suicide Squeeze IPA,American IPA,206,16
+827,0.065,,1803,Java the Hop,American IPA,206,16
+829,0.067,,1515,3-Way IPA (2013),American IPA,206,16
+835,0.074,97,318,Vortex IPA,American IPA,206,16
+840,0.063,42,2658,Villager,American IPA,4,12
+842,0.072,65,1565,Centennial IPA,American IPA,15,12
+843,0.047,42,1223,All Day IPA,American IPA,15,12
+844,0.076,73,1874,El Chingon IPA,American IPA,287,12
+849,0.06,,2611,The 26th,American IPA,22,16
+850,0.064,90,2610,The Gadget,American IPA,22,16
+856,0.067,47,358,Hop Knot IPA,American IPA,160,12
+864,0.069,69,1556,Batch 69 IPA,American IPA,253,12
+872,0.059,70,2521,Soul Doubt,American IPA,66,12
+874,0.04,,1174,77 Fremont Select Spring Session IPA,American IPA,460,12
+880,0.065,80,857,Interurban IPA,American IPA,460,12
+884,0.07,73,2254,Salamander Slam,American IPA,180,16
+886,0.072,50,2077,No Wake IPA,American IPA,228,12
+889,0.067,70,2426,Clean Shave IPA,American IPA,106,12
+892,0.074,74,1777,2020 IPA,American IPA,240,16
+893,0.08,70,1698,Wolf Among Weeds IPA,American IPA,240,16
+894,0.094,92,1641,Better Weather IPA,American IPA,240,16
+895,0.059,60,1490,Point the Way IPA,American IPA,240,16
+897,0.068,65,1399,Heal the Bay IPA,American IPA,240,16
+898,0.059,60,1296,Point the Way IPA,American IPA,240,12
+901,0.08,70,750,Burning Bush Smoked IPA,American IPA,240,16
+902,0.08,70,749,Wolf Among Weeds IPA (2012),American IPA,240,16
+903,0.059,60,549,Point the Way IPA (2012),American IPA,240,16
+906,0.07,70,1109,Descender IPA,American IPA,464,12
+911,0.06,64,309,Good People IPA,American IPA,478,12
+914,0.059,55,2198,Goose Island India Pale Ale,American IPA,196,12
+924,,,142,Black Iron India Pale Ale,American IPA,536,12
+931,0.062,60,1701,Great Crescent IPA,American IPA,165,16
+946,0.062,60,436,Great Crescent IPA (2011),American IPA,165,16
+951,0.071,,2647,Rumble,American IPA,6,12
+953,0.05,,2645,Lasso,American IPA,6,12
+956,0.071,,2642,Titan IPA,American IPA,6,12
+973,0.07,70,540,Big Cock IPA,American IPA,365,16
+996,0.075,,2139,Norm's Raggedy Ass IPA,American IPA,124,16
+998,0.04,55,2007,Norm's Gateway IPA,American IPA,124,12
+1001,0.069,67,1857,Supergoose IPA,American IPA,290,12
+1003,0.07,,1753,Heyoka IPA,American IPA,327,16
+1011,0.07,40,2026,Pursuit,American IPA,248,12
+1015,0.075,70,1677,The Great Return,American IPA,343,16
+1022,0.059,42,1379,Harpoon IPA,American IPA,234,12
+1025,0.059,42,770,Harpoon IPA (2012),American IPA,234,12
+1029,0.059,42,126,Harpoon IPA (2010),American IPA,234,12
+1040,0.072,45,990,Loose Cannon,American IPA,479,12
+1044,0.08,86,1346,Habitus IPA,American IPA,423,16
+1059,0.058,45,1833,Hop Farm IPA,American IPA,297,12
+1062,0.063,70,1543,Proxima IPA,American IPA,198,12
+1065,0.065,90,1353,Alphadelic IPA,American IPA,198,12
+1066,0.065,90,499,Alphadelic IPA (2011),American IPA,198,12
+1068,0.07,,1501,Green House India Pale Ale,American IPA,395,12
+1089,0.066,75,2199,Hopworks IPA,American IPA,80,16
+1095,0.066,75,653,Hopworks IPA (2012),American IPA,80,16
+1101,0.068,90,1903,Let It Ride IPA,American IPA,277,12
+1111,0.07,75,2038,Infamous IPA,American IPA,242,12
+1114,0.068,55,558,I-10 IPA,American IPA,527,12
+1117,,,1784,Appreciation Ale,American IPA,316,16
+1127,0.065,,2363,Hop Ryot,American IPA,92,12
+1128,0.07,,689,Mystic Mama IPA,American IPA,92,12
+1131,0.069,,2408,Welcome to Scoville,American IPA,114,12
+1137,0.06,,1254,JP's Ould Sod Irish Red IPA,American IPA,32,12
+1142,0.071,,2163,Sucha Much IPA,American IPA,208,12
+1153,0.066,70,463,Hopadillo India Pale Ale,American IPA,125,12
+1155,0.06,64,1572,KelSo India Pale Ale,American IPA,342,12
+1159,0.068,,349,Sunken Island IPA,American IPA,458,12
+1162,0.065,65,759,Double Haul IPA (2009),American IPA,510,16
+1163,0.065,65,758,Double Haul IPA (2006),American IPA,510,16
+1165,0.065,65,86,Double Haul IPA,American IPA,510,16
+1176,0.06,70,1667,King Street IPA,American IPA,102,12
+1179,0.063,65,2460,India Pale Ale,American IPA,87,16
+1188,0.072,100,664,Elevated IPA,American IPA,332,16
+1192,0.068,,2493,I.P. Eh!,American IPA,59,12
+1197,0.064,66,1396,Laughing Dog IPA,American IPA,218,12
+1198,0.064,95,1675,Madra Allta,American IPA,345,12
+1199,0.056,70,1249,Duluchan India Pale Ale,American IPA,345,12
+1202,0.057,,474,Tumbleweed IPA,American IPA,537,12
+1211,0.065,75,1686,Irregardless IPA,American IPA,298,12
+1225,0.055,,2582,Mosaic Single Hop IPA,American IPA,41,16
+1226,0.045,,2581,Lost Galaxy,American IPA,41,16
+1227,0.062,65,1309,Face Plant IPA,American IPA,430,12
+1237,0.061,,355,Lumberyard IPA,American IPA,158,12
+1249,0.069,70,1126,Psychopathy,American IPA,91,12
+1256,0.065,,75,Epic IPA,American IPA,534,12
+1262,0.055,,1624,Manayunk IPA,American IPA,356,12
+1269,0.08,88,1673,Manzanita IPA,American IPA,346,12
+1274,0.062,,845,Marble India Pale Ale,American IPA,443,12
+1275,0.072,,1783,Toughcats IPA,American IPA,317,16
+1288,0.065,60,1831,Our Legacy IPA,American IPA,299,12
+1290,0.065,60,1135,Our Legacy IPA,American IPA,299,16
+1297,0.06,,686,Saranac White IPA,American IPA,299,12
+1308,0.068,68,435,Flyin' HI.P.Hay,American IPA,375,12
+1312,0.062,65,31,Big Swell IPA,American IPA,375,12
+1319,0.072,75,2186,Tsunami IPA,American IPA,203,19.2
+1320,0.072,75,2185,Tsunami IPA,American IPA,203,12
+1327,0.071,62,1506,Miami Vice IPA,American IPA,393,12
+1330,0.063,61,2093,Pleasure Town,American IPA,223,12
+1331,0.063,61,1814,Pleasure Town IPA,American IPA,223,12
+1334,0.057,70,434,Sockeye Red IPA,American IPA,223,12
+1336,0.075,85,2667,Solis,American IPA,3,16
+1342,0.08,,2534,Disco Superfly,American IPA,65,24
+1343,0.075,,2533,Misty Mountain Hop,American IPA,65,24
+1347,0.075,,2529,Love In An Ellavator,American IPA,65,24
+1350,0.068,,1611,Better Half,American IPA,363,12
+1356,0.075,51,1080,Hop Happy,American IPA,284,16
+1375,0.068,66,2441,Mission IPA,American IPA,98,32
+1381,0.04,,644,Johnny's American IPA,American IPA,399,16
+1385,0.075,85,2159,City of the Sun,American IPA,209,16
+1386,0.068,75,2157,Booming Rollers,American IPA,209,16
+1408,0.07,70,2208,Lil' Helper,American IPA,188,12
+1411,0.072,,625,Desert Magic IPA,American IPA,507,12
+1437,0.065,65,1148,Nebraska India Pale Ale,American IPA,337,12
+1441,0.066,,1758,County Line IPA,American IPA,325,12
+1443,0.045,40,2475,Slow Ride,American IPA,82,12
+1444,0.065,70,2230,Ranger IPA,American IPA,82,12
+1455,0.065,70,564,Ranger IPA,American IPA,82,16
+1457,0.065,70,115,Ranger IPA (Current),American IPA,82,12
+1461,0.062,,885,Sea Hag IPA,American IPA,410,12
+1470,0.062,,39,Sea Hag IPA (Current),American IPA,410,12
+1474,0.065,,486,Hopitoulas IPA,American IPA,174,16
+1483,0.072,,915,Green Head IPA,American IPA,495,12
+1488,0.072,80,1621,Hop Drop 'N Roll IPA,American IPA,359,16
+1493,0.045,50,2692,Get Together,American IPA,0,16
+1499,0.069,,1854,Blue Boots IPA,American IPA,293,16
+1500,0.063,,1227,Hoppy Bitch IPA,American IPA,450,16
+1504,0.043,,1917,Left of the Dial IPA,American IPA,271,12
+1507,0.061,66,1258,5 Day IPA,American IPA,442,12
+1509,0.067,70,2331,Watershed IPA,American IPA,150,12
+1512,0.067,70,999,Watershed IPA (2013),American IPA,150,12
+1541,0.075,,891,Overbite IPA,American IPA,301,16
+1551,0.049,35,2302,Pinner Throwback IPA,American IPA,166,12
+1556,,,1752,Icey.P.A.,American IPA,166,16
+1558,,,1750,Birth IPA,American IPA,166,12
+1562,0.085,,993,oSKAr the G'Rauch,American IPA,166,19.2
+1563,0.085,,992,oSKAr the G'Rauch,American IPA,166,16
+1606,0.048,,1684,Hula Hoppie Session IPA,American IPA,341,12
+1614,0.062,65,1048,Outlaw IPA,American IPA,307,12
+1623,0.065,77,2175,Mound Builder IPA,American IPA,205,12
+1624,0.062,62,2168,Amazon Princess IPA,American IPA,205,12
+1630,0.065,65,2630,98 Problems (Cuz A Hop Ain't One),American IPA,13,12
+1632,0.05,35,2628,Grapefruit IPA,American IPA,13,12
+1643,0.067,74,1402,Mind's Eye PA,American IPA,11,16
+1644,0.061,60,2312,Camelback,American IPA,157,12
+1647,0.07,75,1384,Elephant Rock IPA,American IPA,355,12
+1657,0.07,70,479,Missouri Mule India Pale Ale,American IPA,314,16
+1659,0.069,51,1760,GreyBeard™ IPA,American IPA,324,12
+1661,0.045,,1589,PONTO S.I.P.A.,American IPA,370,16
+1663,0.068,,1191,Swami's India Pale Ale,American IPA,370,16
+1667,,,335,Ponderosa IPA,American IPA,548,12
+1691,0.062,55,938,Gangway IPA,American IPA,475,12
+1694,0.055,45,2515,Pump House IPA,American IPA,68,16
+1699,0.065,44,945,Long Hammer IPA,American IPA,487,16
+1700,0.065,44,583,Long Hammer IPA,American IPA,487,12
+1708,0.07,100,1176,Redacted Rye IPA,American IPA,110,16
+1711,0.07,100,636,Ryeteous Rye IPA (2012),American IPA,110,16
+1726,0.065,70,415,Anti-Hero IPA,American IPA,44,12
+1734,0.072,75,1852,Truth,American IPA,93,12
+1741,0.05,55,1771,Lil SIPA,American IPA,321,16
+1743,0.05,100,2579,Jah Mon,American IPA,43,12
+1746,0.05,,2048,Dayman IPA,American IPA,43,12
+1756,0.062,,1099,Old Wylie's IPA,American IPA,43,12
+1764,0.07,,158,Cornerstone IPA,American IPA,229,16
+1768,0.07,80,1576,RoughTail IPA,American IPA,376,16
+1775,0.063,,1782,Kiss Off IPA,American IPA,164,12
+1783,0.068,66,1867,Saint Archer IPA,American IPA,288,12
+1795,0.07,85,1071,Hop Shock IPA,American IPA,30,12
+1801,0.07,85,317,Hop Shock IPA (2010),American IPA,30,12
+1816,0.066,,217,Happy Camper IPA,American IPA,392,12
+1823,0.045,30,1078,Schlafly IPA,American IPA,428,12
+1828,0.074,60,1302,Blur India Pale Ale,American IPA,432,12
+1831,0.07,105,918,Frankenlou's IPA,American IPA,494,16
+1837,0.07,68,1765,Golden Ratio IPA,American IPA,183,16
+1840,0.069,65,1539,Monkey Fist IPA,American IPA,385,12
+1845,0.072,65,2239,Torpedo,American IPA,83,12
+1851,0.072,65,426,Torpedo,American IPA,83,16
+1856,0.068,,160,Ice Pick Ale,American IPA,551,12
+1861,0.065,62,2090,Bengali,American IPA,46,24
+1865,0.067,74,1591,Autumnation (2013),American IPA,46,16
+1869,0.064,62,1385,Bengali Tiger,American IPA,46,16
+1880,0.064,62,422,Bengali Tiger (2011),American IPA,46,16
+1881,0.045,,1942,Rudie Session IPA,American IPA,264,12
+1883,0.068,65,1521,Modus Hoperandi,American IPA,264,12
+1892,0.068,65,67,Modus Hoperandi,American IPA,264,12
+1894,0.071,92,1609,Initial Point India Pale Ale,American IPA,313,12
+1898,0.06,70,2305,Homefront IPA,American IPA,163,12
+1901,0.062,,1211,360° India Pale Ale,American IPA,371,12
+1906,0.07,113,24,113 IPA,American IPA,371,12
+1911,0.07,88,2407,Rule G IPA,American IPA,115,12
+1920,0.068,60,393,Pako’s EyePA,American IPA,191,12
+1923,0.063,100,1596,Dagger Falls IPA,American IPA,309,12
+1924,0.063,100,1595,Dagger Falls IPA,American IPA,309,12
+1937,0.063,100,879,Dagger Falls IPA,American IPA,309,12
+1939,0.055,40,1971,Texas Pale Ale (TPA),American IPA,257,16
+1944,0.055,65,1282,Nice Rack IPA,American IPA,436,16
+1945,0.075,72,2362,2014 IPA Cicada Series,American IPA,133,16
+1946,0.077,65,2346,Sinister Minister Black IPA,American IPA,133,16
+1968,0.047,35,2486,Baby Daddy Session IPA,American IPA,78,12
+1978,0.062,,1819,Spiteful IPA,American IPA,175,12
+1987,0.065,52,1205,Northern Lights India Pale Ale,American IPA,383,16
+1989,0.065,52,368,Northern Lights India Pale Ale,American IPA,383,12
+1993,0.065,65,90,Third Eye Pale Ale,American IPA,119,12
+1999,0.063,64,2150,Beyond The Pale IPA,American IPA,131,12
+2023,0.072,70,637,Monkeynaut IPA,American IPA,412,12
+2040,0.064,75,2001,Fistful Of Hops Red,American IPA,25,16
+2041,0.063,75,2000,Fistful of Hops Orange,American IPA,25,16
+2042,0.064,75,1999,Fistful Of Hops Blue,American IPA,25,16
+2043,0.064,75,1996,Fistful of Hops Green,American IPA,25,16
+2047,0.075,77,1420,Grapefruit Jungle (GFJ),American IPA,25,16
+2064,0.075,77,532,Grapefruit Jungle (GFJ) (2011),American IPA,25,16
+2071,0.07,,1206,Red Clay IPA,American IPA,455,12
+2072,0.072,,2543,Todd the Axe Man,American IPA,61,16
+2075,0.073,69,1112,Overrated! West Coast Style IPA,American IPA,61,16
+2076,0.075,90,329,WET,American IPA,61,16
+2084,0.062,99,12,Furious,American IPA,61,16
+2085,0.073,50,1242,Big Nose,American IPA,447,12
+2093,0.064,,1710,SweetWater IPA,American IPA,49,12
+2097,0.05,44,663,TailGate IPA,American IPA,449,24
+2098,0.05,44,662,TailGate IPA,American IPA,449,12
+2108,0.068,110,1017,Ethos IPA,American IPA,45,16
+2120,0.063,60,101,Tallgrass IPA,American IPA,45,16
+2121,0.068,,1433,Hat Trick Hop IPA,American IPA,409,16
+2124,0.07,80,544,Old Elephant Foot IPA,American IPA,490,16
+2126,0.07,,2448,Reactor,American IPA,7,16
+2130,0.064,,827,Tempter IPA,American IPA,480,12
+2143,0.07,,1810,Focal Banger,American IPA,272,16
+2147,0.07,75,1199,Indian Paintbrush IPA,American IPA,457,12
+2158,0.05,,2034,South Bay Session IPA,American IPA,33,16
+2161,0.046,45,1749,Just IPA,American IPA,328,12
+2176,0.062,82,2316,Hoodoo Voodoo IPA,American IPA,153,12
+2178,0.06,50,1912,40 Mile IPA,American IPA,273,12
+2184,0.065,,1222,Cropduster Mid-American IPA,American IPA,282,12
+2192,0.058,36,951,Alloy,American IPA,17,16
+2197,0.07,60,1755,Juke Joint IPA,American IPA,152,12
+2203,0.073,87,1856,IPA & a Half,American IPA,291,12
+2206,0.068,,1026,Preservation IPA,American IPA,474,16
+2207,0.062,72,1938,Almanac IPA,American IPA,265,12
+2210,0.057,,594,Triangle India Pale Ale,American IPA,524,12
+2217,0.075,85,1509,Perpetual IPA,American IPA,97,12
+2219,0.062,65,641,Hoppy Boy,American IPA,520,16
+2221,0.075,63,2458,Chupahopra,American IPA,38,12
+2223,0.041,41,2235,Day Hike Session,American IPA,190,12
+2224,0.048,48,1661,Trailhead ISA,American IPA,190,12
+2226,0.062,70,1659,Evo IPA,American IPA,190,12
+2228,0.062,70,1173,Evolutionary IPA (2012),American IPA,190,12
+2232,0.062,70,505,Evolutionary IPA (2011),American IPA,190,12
+2233,0.048,48,482,Trailhead India Style Session Ale (2011),American IPA,190,12
+2235,0.063,69,2497,Wobble,American IPA,74,16
+2244,0.065,,642,Outlaw IPA (2015),American IPA,74,12
+2253,0.04,42,1925,Trader Session IPA,American IPA,159,12
+2254,0.073,83,1723,Hop Nosh IPA,American IPA,159,12
+2257,0.073,82,1089,Hop Notch IPA (2013),American IPA,159,12
+2261,0.06,75,2372,The Green Room,American IPA,126,16
+2275,0.045,50,2190,Campside Session IPA,American IPA,202,16
+2277,0.06,,1950,Dragonfly IPA,American IPA,202,16
+2295,0.072,,79,Upslope India Pale Ale,American IPA,51,12
+2297,0.065,70,381,Upstate I.P.W.,American IPA,546,12
+2316,0.073,85,1603,Good Vibes IPA,American IPA,322,12
+2318,0.04,37,1846,Wachusett Light IPA,American IPA,295,12
+2319,0.06,55,1845,Green Monsta IPA,American IPA,295,12
+2320,0.056,50,1844,Wachusett IPA,American IPA,295,12
+2325,0.04,37,1029,Wachusett Light IPA (2013),American IPA,295,12
+2328,0.06,55,618,Green Monsta IPA,American IPA,295,12
+2330,0.052,67,2450,Self Starter,American IPA,94,16
+2333,0.07,,2221,Flyin' Rye,American IPA,94,16
+2337,,,652,West Sixth IPA,American IPA,100,12
+2341,0.068,65,575,Westbrook IPA,American IPA,384,12
+2344,0.058,55,1550,Charlie in the Rye,American IPA,351,12
+2348,0.075,89,2343,O’Malley’s IPA,American IPA,132,12
+2353,0.05,,2572,Hop Session,American IPA,47,12
+2356,0.06,,1498,Super G IPA,American IPA,396,16
+2379,0.074,83,762,Ace IPA,American IPA,509,16
+2382,0.071,60,2148,#002 American I.P.A.,American IPA,211,12
+2384,0.048,38,2146,#004 Session I.P.A.,American IPA,211,12
+2386,0.062,61,1470,Ananda India Pale Ale,American IPA,239,12
+2388,0.058,72,2627,Train Hopper,American IPA,14,12
+2390,0.059,135,1676,Troopers Alley IPA,American IPA,344,12
+2393,0.065,82,2417,4000 Footer IPA,American IPA,109,12
+2395,0.065,69,1697,Be Hoppy IPA,American IPA,339,16
+2396,0.069,69,2194,Worthy IPA,American IPA,199,12
+2399,0.069,69,1512,Worthy IPA (2013),American IPA,199,12
